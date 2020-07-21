@@ -5,6 +5,7 @@ Depth-first search (DFS) is a search algorithm that starts at the root node and 
 A-Star(A*) is a search algorithm that plots a walkable path between multiple nodes, or points, on the graph. The algorithm uses a heuristic value to plan ahead at each step so a more optimal decision is made.
 
 A* Search 
+
 `_  _  _  _  _  R`    `_  _  _  _  _  R`  
 `_  _  _  v  _  R`    `_  _  _  v  _  R`  
 `_  _  R  R  _  _`    `_  _  R  R  *  _`  
@@ -13,6 +14,7 @@ A* Search
 `*  _  R  _  _  R`    `*  _  R  _  _  R`
 
 DFS Search 
+
 `_  _  _  _  _  R`    `_  *  *  *  *  R`  
 `_  _  _  v  _  R`    `_  *  _  v  *  R`  
 `_  _  R  R  _  _`    `_  *  R  R  *  *`  
